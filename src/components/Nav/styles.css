@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    align-items: center;
+    height: 2rem;
+    width: 100%;
+    background: #ddfada;
+    padding: 0 3rem;
+}
+
+a{
+    height: 100%;
+    padding: .25rem;
+}
+
+a:hover{
+    background: #bdf1b9;
+}
